@@ -32,20 +32,16 @@ In compliance with Epic Games, The developers of Neonite officially closed their
 
 ## FAQs
 
- 
+ Q: Is this server functional yet? 
 
-<!-- INSTALL -->
-## Installation
+ A: Not yet. I still have a lot of rewriting to do, and I will post progress as time goes on.
 
-- Install the latest version of **[Node.js](https://nodejs.org/en/download/current/)**. 
-- (Download the latest **[.NET Runtime](https://dotnet.microsoft.com/download)** if NeoniteV2 is not working for you.)
-- Download the **[source code](https://github.com/NeoniteDev/NeoniteV2/releases)**.
-- Extract the source code.
-- Open `run.bat`, it should say `[Neonite]: v2.* is listening on port 5595!` (Do not close this while running Neonite V2!)	
-- Download the **[launcher](https://github.com/NeoniteDev/NeoniteV2/blob/main/public/Launcher.zip?raw=true)**.	
-- Extract the launcher and open `NeoniteLauncher.exe`.
-- Type in your username (don't use any special characters or spaces.)	
-- Click launch, and enjoy!
+## Progress
+
+### Current Progress: 1% - Started progress on fortnite-game.js.
+
+If you would like to help, shoot me a DM on discord!
+PAK-VIN - vingoofy
 
 <!-- CONTACT -->
 ## Contact
