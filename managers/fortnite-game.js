@@ -37,8 +37,8 @@ module.exports = (app, port) => {
                         "hidden": false,
                         "_type": "CommonUI Simple Message Base",
                         "subgame": "br",
-                        "body": "Made by kemo (@xkem0x) and Beat (@TheBeatYT_evil).\r\nDiscord: https://discord.gg/DJ6VUmD",
-                        "title": "Neonite V2",
+                        "body": "OG Fortnite the way you remember it. Rewritten by PAK-VIN.",
+                        "title": "SmartPixel Strikenite",
                         "spotlight": false
                     },
                     ],
@@ -62,8 +62,8 @@ module.exports = (app, port) => {
                         {
                             "hidden": false,
                             "_type": "CommonUI Emergency Notice Base",
-                            "title": "Neonite V2",
-                            "body": "Made by kemo (@xkem0x) and Beat (@TheBeatYT_evil)..\r\nDiscord: https://discord.gg/DJ6VUmD",
+                            "title": "SmartPixel Strikenite",
+                            "body": "OG Fortnite the way you remember it. Rewritten by PAK-VIN.",
                         }
                     ]
                 },
@@ -79,18 +79,18 @@ module.exports = (app, port) => {
                         "tileImage": `http://127.0.0.1:${port}/Neonite1024.png`,
                         "videoMute": false,
                         "hidden": false,
-                        "tabTitleOverride": "Neonite V2",
+                        "tabTitleOverride": "SmartPixel Strikenite",
                         "_type": "CommonUI Simple Message MOTD",
-                        "title": "Neonite",
-                        "body": "Made by Kemo (@xkem0x) and maintained by Beat (@TheBeatYT_evil). If you have any bugs, you can join our Discord by clicking the button below.",
+                        "title": "Strikenite",
+                        "body": "OG Fortnite the way you remember it. Rewritten by PAK-VIN. If you have any problems, let me know on the Github Page by clicking the button below!",
                         "videoLoop": false,
                         "videoStreamingEnabled": false,
                         "sortingPriority": 0,
-                        "id": "NeoniteNewsBR",
+                        "id": "StrikeniteNewsBR",
                         "videoAutoplay": false,
                         "videoFullscreen": false,
                         "spotlight": false,
-                        "websiteURL": "https://discord.gg/DJ6VUmD",
+                        "websiteURL": "",
                         "websiteButtonText": "Join our discord"
                     }]
                 },
