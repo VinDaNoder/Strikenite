@@ -16,7 +16,7 @@
     <li><a href="#about-strikenite">About Strikenite</a></li>
     <li><a href="#what-happened-to-neonite">About Neonite's Maintinence Closure</a></li>
    <li><a href="#faqs">FAQs</a></li> 
-   <li><a href="#installation">Installation</a></li>
+   <li><a href="#progress">Current Progress</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#credits">Credits</a></li>
 </ol>
